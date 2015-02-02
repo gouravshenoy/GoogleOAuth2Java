@@ -1,8 +1,3 @@
-OAuth2v1
-========
-
-A demo and helper class for providing Google OAuth2 v1 authentication in java.
-
 Assumptions
 
 - familiarity with OOP, java, maven, and jee
